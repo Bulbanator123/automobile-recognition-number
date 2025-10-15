@@ -1,0 +1,8 @@
+names:
+- auto
+- plate
+nc: 2
+path: datasets
+train: images/train
+val: images/val
+test: images/test
